@@ -15,5 +15,11 @@
       "dom.iterable",
       "scripthost"
     ]
-  }
+  },
+  "exclude": [
+    ".vscode",
+    "node_modules",
+    "dist",
+    "public",
+  ]
 }
