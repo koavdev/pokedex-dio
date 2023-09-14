@@ -10,14 +10,13 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
   #pokedex {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    max-width: 100px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 24px;
-
   }
 </style>
